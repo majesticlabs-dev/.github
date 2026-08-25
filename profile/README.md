@@ -18,7 +18,7 @@ These projects come from real production work. Use them, inspect them, and build
 - [pi-minimax_image](https://github.com/majesticlabs-dev/pi-minimax_image): MiniMax image generation for the pi coding agent.
 - [writing-eval](https://github.com/majesticlabs-dev/writing-eval): Deterministic audits for AI-generated text against configurable style rules and profiles.
 
-[Browse all open-source projects](https://majesticlabs.dev/open-source)
+[Browse all public repositories](https://github.com/orgs/majesticlabs-dev/repositories)
 
 ## Majestic AI
 
