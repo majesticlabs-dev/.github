@@ -4,7 +4,7 @@
 
 Majestic Labs turns operational problems into working software: AI systems used in real businesses, open-source tools developers can read, run, and fork, and early backing for operator-founders.
 
-[Explore Majestic Labs](https://majesticlabs.dev) · [Browse the organization](https://github.com/majesticlabs-dev)
+[Explore Majestic Labs](https://majesticlabs.dev)
 
 ## Open source
 
