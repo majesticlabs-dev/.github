@@ -1,5 +1,9 @@
 # Majestic Labs
 
+<p align="center">
+  <img src="./hero.webp" alt="Pink and purple laboratory flask mark with star shapes" width="180">
+</p>
+
 ## Software built from inside the work
 
 Majestic Labs turns operational problems into working software: AI systems used in real businesses, open-source tools developers can read, run, and fork, and early backing for operator-founders.
