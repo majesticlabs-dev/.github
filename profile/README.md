@@ -17,7 +17,7 @@ Majestic Labs turns operational problems into working software: AI systems used 
 These projects come from real production work. Use them, inspect them, and build on them.
 
 - [LocalVoice](https://github.com/majesticlabs-dev/local-voice): A voice interface that runs locally. Private by default, with no audio leaving the machine.
-- [Majestic Marketplace](https://github.com/majesticlabs-dev/majestic-marketplace): A marketplace of Claude Code plugins, skills, and agent workflows shared from production work.
+- [Majestic Abilities](https://github.com/majesticlabs-dev/majestic-abilities): Majestic Abilities is a portable catalog of agent skills organized into capability categories.
 - [Hermes Guide](https://github.com/majesticlabs-dev/hermes-guide): Community guides for setting up and operating the Hermes agent.
 - [pi-minimax_image](https://github.com/majesticlabs-dev/pi-minimax_image): MiniMax image generation for the pi coding agent.
 - [writing-eval](https://github.com/majesticlabs-dev/writing-eval): Deterministic audits for AI-generated text against configurable style rules and profiles.
